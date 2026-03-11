@@ -20,3 +20,16 @@
 <img width="1917" height="1079" alt="image" src="https://github.com/user-attachments/assets/8cfc0d28-c2a8-4e8e-a12f-72dca85a7898" />
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/cb1ac311-cad5-4457-8d80-fb5c2a665528" />
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/a225661b-c6f3-42d6-ba82-25459cedbfaa" />
+<img width="1908" height="1069" alt="image" src="https://github.com/user-attachments/assets/f02fdba6-b473-42d5-bac7-9d852af1da32" />
+The VM has been added
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/9c9eb12a-006e-49f1-8e75-4f1de8af1fea" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/c9e81d91-0f0c-4689-8e0d-c646dbbe9842" />
+VAMI
+<img width="1919" height="1024" alt="image" src="https://github.com/user-attachments/assets/4fb9bda7-9888-412d-834a-460714cd3b1e" />
+License
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/e6145ace-f13a-4bb3-85c7-71c2a603f44a" />
+<img width="1919" height="968" alt="image" src="https://github.com/user-attachments/assets/1e97f757-cc24-4f1c-bcba-72a3164546c7" />
+<img width="1919" height="973" alt="image" src="https://github.com/user-attachments/assets/23d997df-5bb5-463c-b85b-8c3a983f634b" />
+<img width="1919" height="960" alt="image" src="https://github.com/user-attachments/assets/f1588c0e-ae18-49d3-907e-c76ac59adac6" />
+<img width="1919" height="971" alt="image" src="https://github.com/user-attachments/assets/8757acdb-0df7-42bb-9b75-5eb0d5dc1d58" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/9c2d1019-e3af-4940-bf9c-da6ddd3fa495" />
