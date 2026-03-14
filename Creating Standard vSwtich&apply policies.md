@@ -23,4 +23,5 @@ if i want to migrate it to another network
 <img width="1919" height="872" alt="image" src="https://github.com/user-attachments/assets/5e164ea3-aa93-487c-94dc-bfceb20bd790" />
 
 -------------------
-#applying policies
+# Applying policies
+Policies levels: ( switch >> portgroup >> port)
