@@ -21,3 +21,6 @@
 <img width="1919" height="869" alt="image" src="https://github.com/user-attachments/assets/f7d737e1-d25f-4c96-8901-7575e63898d9" />
 if i want to migrate it to another network 
 <img width="1919" height="872" alt="image" src="https://github.com/user-attachments/assets/5e164ea3-aa93-487c-94dc-bfceb20bd790" />
+
+-------------------
+#applying policies
