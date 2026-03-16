@@ -17,3 +17,4 @@
 here i can set policies to VM on ports
 <img width="1919" height="874" alt="image" src="https://github.com/user-attachments/assets/e797e53b-0e5e-43f9-ad2f-b9be771376dd" />
 <img width="1919" height="873" alt="image" src="https://github.com/user-attachments/assets/e9d42d4a-afa7-48e6-8237-444646c01b39" />
+<img width="934" height="670" alt="image" src="https://github.com/user-attachments/assets/961c1fe2-7c76-4f24-803d-978b479250f6" />
