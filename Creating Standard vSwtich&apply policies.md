@@ -25,3 +25,10 @@ if i want to migrate it to another network
 -------------------
 # Applying policies
 Policies levels: ( switch >> portgroup >> port)
+<img width="975" height="475" alt="image" src="https://github.com/user-attachments/assets/79bb9b0e-fa18-45d9-9f85-e33aec47da96" />
+<img width="975" height="472" alt="image" src="https://github.com/user-attachments/assets/e3e9e9d0-066b-46f7-8a6e-18280376cb83" />
+<img width="975" height="475" alt="image" src="https://github.com/user-attachments/assets/e0724456-327d-4dce-9e0d-4ff15303817f" />
+<img width="975" height="473" alt="image" src="https://github.com/user-attachments/assets/e51fea27-80b7-4a1b-967b-0dcc53d942de" />
+Change policies for Portgroup
+<img width="975" height="474" alt="image" src="https://github.com/user-attachments/assets/2e6e389d-a544-4c00-8fb9-4064fdaa5237" />
+And same Policies can be applied to specific portgroup 
