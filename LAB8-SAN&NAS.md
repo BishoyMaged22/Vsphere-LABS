@@ -12,3 +12,8 @@ Configure HBA for the host esxi
 
 ----------
 # NAS Storage
+<img width="1919" height="931" alt="image" src="https://github.com/user-attachments/assets/36b45983-c53d-41f4-9991-6d284060b2cc" />
+<img width="1919" height="934" alt="image" src="https://github.com/user-attachments/assets/10cd329b-5c5b-4ac6-8ebb-585a92c613ca" />
+<img width="1919" height="929" alt="image" src="https://github.com/user-attachments/assets/b437dacb-930a-4055-928c-c133325fa300" />
+<img width="1919" height="873" alt="image" src="https://github.com/user-attachments/assets/6dce5246-2e17-4ec3-83a7-15f3066a1a11" />
+<img width="1919" height="873" alt="image" src="https://github.com/user-attachments/assets/632cd15b-ad23-4bf2-b6b7-ceda9fc69dba" />
