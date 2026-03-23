@@ -1,4 +1,4 @@
-<img width="1919" height="929" alt="image" src="https://github.com/user-attachments/assets/fef18f13-00af-4e9d-a1b2-51e6a3242d2b" />## Content library
+## Content library
 Creating content library locally as a publisher in Region-01 to publish content to Region-02
 <img width="1919" height="932" alt="image" src="https://github.com/user-attachments/assets/6df9808f-deb3-42f0-b911-31a980cebe90" />
 <img width="1919" height="930" alt="image" src="https://github.com/user-attachments/assets/02cc0de5-8a44-4162-9f9b-2e22679ae0d5" />
