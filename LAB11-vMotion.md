@@ -7,3 +7,6 @@ should change to another Host
 for allowing EVC
 <img width="1919" height="926" alt="image" src="https://github.com/user-attachments/assets/c41f3d5a-160e-492b-834c-5b0a3488ed44" />
 <img width="1919" height="927" alt="image" src="https://github.com/user-attachments/assets/fcf6ca14-8ef2-4896-9a7f-64f107d4b033" />
+## Storage vmotion (transfer vm files from datastore into another datastore)
+<img width="1919" height="926" alt="image" src="https://github.com/user-attachments/assets/ecb80431-4c78-457d-b682-588196ca9aa9" />
+<img width="1919" height="931" alt="image" src="https://github.com/user-attachments/assets/1216a568-b5c7-46f2-bf3e-8a3fac5fa5f1" />
