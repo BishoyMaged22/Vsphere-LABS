@@ -10,3 +10,9 @@ for allowing EVC
 ## Storage vmotion (transfer vm files from datastore into another datastore)
 <img width="1919" height="926" alt="image" src="https://github.com/user-attachments/assets/ecb80431-4c78-457d-b682-588196ca9aa9" />
 <img width="1919" height="931" alt="image" src="https://github.com/user-attachments/assets/1216a568-b5c7-46f2-bf3e-8a3fac5fa5f1" />
+## Cross regions
+<img width="1919" height="925" alt="image" src="https://github.com/user-attachments/assets/d5125be6-adde-4abd-bdac-a038658244a3" />
+<img width="1919" height="928" alt="image" src="https://github.com/user-attachments/assets/0aca2d58-7662-4e3f-995c-3b68c6a237c5" />
+<img width="1919" height="927" alt="image" src="https://github.com/user-attachments/assets/0410575d-8abd-4e31-9d78-4fef7d60923e" />
+<img width="1919" height="928" alt="image" src="https://github.com/user-attachments/assets/c563103e-7f4b-4782-b3a5-0a2e2d5e8e0c" />
+<img width="1919" height="924" alt="image" src="https://github.com/user-attachments/assets/86eefc67-6a6b-497d-a661-a1859cde3856" />
