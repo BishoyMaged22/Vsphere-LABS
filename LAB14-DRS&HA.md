@@ -33,3 +33,11 @@ Creating a new VM to see which host will take it
 <img width="1919" height="860" alt="image" src="https://github.com/user-attachments/assets/e26d43c4-6b7d-468f-b6ff-e409dbf86f88" />
 <img width="1919" height="855" alt="image" src="https://github.com/user-attachments/assets/2fdd393d-4e7e-4d7e-8205-58412216d33a" />
 <img width="1919" height="929" alt="image" src="https://github.com/user-attachments/assets/8d8ad91e-460c-4db8-a254-f640cc3ddd01" />
+## HA (high avalability)
+HA used for sending Heartbeats from Master Esxi to secondary esxi and when it finds the host is not reachable , it restarts the vms on different esxi host
+<img width="1919" height="929" alt="image" src="https://github.com/user-attachments/assets/feb21efb-00e4-4d91-a522-fbd7aa5f90cc" />
+<img width="1919" height="932" alt="image" src="https://github.com/user-attachments/assets/5d65c784-39ca-4988-8381-4eb356d8bc5b" />
+for reserving Resources on hosts for failover 
+<img width="1919" height="925" alt="image" src="https://github.com/user-attachments/assets/15555e2a-bb6d-4fa8-885c-b389fc5d0d74" />
+<img width="1919" height="930" alt="image" src="https://github.com/user-attachments/assets/e1835e48-52d1-4115-999d-d84fd7a666ed" />
+<img width="1919" height="929" alt="image" src="https://github.com/user-attachments/assets/46e49b73-f321-462d-bf30-dc9b45057eef" />
